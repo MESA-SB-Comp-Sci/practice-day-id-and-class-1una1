@@ -19,6 +19,32 @@ border-radius: 10px;
     text-align: center;
 }
 
+.card {
+    background-color: blue;
+    border: cyan;
+    padding: 30px;
+}
+
+.warning {
+    color: red;
+    border: outset;
+}
+
+.img-style {
+    border-radius: 20px;
+    border: solid blue;
+}
+
+.label {
+    
+}
+
+
+
+
+
+
+
 /* write your rules below  this line*/
 
 
